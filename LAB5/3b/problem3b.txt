@@ -1,0 +1,2 @@
+Dziedzina problemu dotyczy zarządzania listą zakupów. Użytkownik tworzy listę zakupów, do której dodaje konkretne pozycje wraz z informacją o ilości i produkcie.
+Każda pozycja na liście odnosi się do konkretnego produktu, który posiada nazwę, identyfikator (id) oraz producenta. System umożliwia zarządzanie danymi dotyczącymi produktów, jak i tworzeniem oraz modyfikacją list zakupowych i ich zawartości.

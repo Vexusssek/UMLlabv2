@@ -1,0 +1,2 @@
+Dziedzina problemu dotyczy zarządzania zespołem muzycznym i jego członkami. Każdy zespół ma swoją nazwę i może składać się z wielu członków, z których każdy ma przypisane imię, wiek oraz instrument muzyczny.
+Instrumenty są opisane tylko nazwą. System ten pozwala tworzyć zespoły, dodawać członków oraz przypisywać im odpowiednie instrumenty.

@@ -1,0 +1,1 @@
+Dziedziną problemu jest prosty system biblioteki. Każdy obiekt w bibliotece jest traktowany jako Zasob i posiada unikalny ID. Książka jest szczególnym przypadkiem Zasobu, który dodatkowo ma autora, tytuł, rok wydania, czy ISBN. Biblioteka ma własną nazwę oraz adres.
